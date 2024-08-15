@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/HashimRaza11",
   resume:
-  "https://drive.google.com/file/d/1DddL9evqiUX1kR3vGHD6al6QBlKbuNlp/view?usp=sharing",
+  "https://drive.google.com/file/d/1xay2nW9c7p0St39-5DWKS9U5xv-4OzW7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mirza-hashim-6bb889175/",
   twitter: "https://twitter.com/mirzahashim1",
   insta: "https://www.instagram.com/Mirza_hashim11/",
